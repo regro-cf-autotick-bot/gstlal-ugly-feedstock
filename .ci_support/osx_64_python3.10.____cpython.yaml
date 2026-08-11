@@ -25,9 +25,9 @@ glib:
 gsl:
 - '2.7'
 gst_plugins_base:
-- '1.26'
+- '1.28'
 gstreamer:
-- '1.26'
+- '1.28'
 ldas_tools_framecpp:
 - '2.9'
 libboost_headers:
